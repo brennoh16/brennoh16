@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 Sou estudante de Ciência de Dados<br>👯 Estou me aperfeiçoando na linguagem Python<br>🤝 Aceito dicas e troca de conhecimento sempre!<br>🌱 Foco e aprendizado!
-🔭 I am a Data Science student
-👯 I am improving my skills in Python
-🤝 I’m always open to tips and knowledge exchange!
-🌱 Focus and learning
-
+🔭 I am a Data Science student 👯 I am improving my skills in Python 🤝 I’m always open to tips and knowledge exchange! 🌱 Focus and learning
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_brennokj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brenno-henrique-1544aa2a3) 
 
